@@ -10,7 +10,7 @@ This GitHub repository contains all the datasets used in this study with the det
 
 The most relevant files: 
 
-The cutated EV and non-EV protein dataset containing all the sequence-based features and curated annotations is available /Data/Curated/features_human_proteome_MS_filter.csv
+The curated EV and non-EV protein dataset containing all the sequence-based features and curated annotations is available /Data/Curated/features_human_proteome_MS_filter.csv
 
 The curated EV protein list with all the sequence-based features and curated annotations 
 /Data/Curated/EV_protein_list.csv
