@@ -1,4 +1,4 @@
-## This folder contains all the necessary datasets used to reproduce this study.
+## This folder contains all the datasets used in this study.
 
 ## Raw
 Folder UniProt contains the list of proteins annotated to have certain post-translational modifications (PTMs)
