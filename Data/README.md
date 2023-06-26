@@ -6,7 +6,6 @@ Folder PhosphositePlus contains PhosphositePlus annotations of PTMs
 Folder ProteomicsDB contains the information about the evidence of a protein being able to be detected by mass spectrometry (MS)
 
 - NSP2_complete.tab (global secondary structure predictions for all the proteins in the human proteome by NetSurfP2.0)
-!needs to be removed - NSP_exposed_aa.csv 
 - SwissPalm_proteins.txt (palmytoilation database annotations)
 - TMHMM_tmp.csv (predicted transmembrane regions by TMHMM)
 - exocarta.csv (EV proteome from exocarta)
@@ -21,7 +20,7 @@ Folder ProteomicsDB contains the information about the evidence of a protein bei
 - VPEC_all.csv (Vesiclepedia and exocarta proteins combined)
 - VPEC_mapped.csv (Vesiclepedia and exocarta proteins mapped to UniProt IDs)
 - VP_Isolation_filter.csv (EV proteins selected after isolation method filtering)
-! removed? - VP_old_mapped.csv
+- VP_old_mapped.csv (??)
 - aa_exposed_NSP.csv (calculated fractions of exposed amino acid per protein, predictions from NetSurfP2.0)
 - features_human_proteome_MS_filter.csv (the main dataset with all the filters containing true EV proteins with sequence-based predictions and curated annotations)
 - features_human_proteome.csv (larger dataset without MS filter)
