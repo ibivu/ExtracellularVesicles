@@ -14,3 +14,8 @@ The most relevant files:
 
 2. A text file containing the UniProt IDs of the 5,965 EV proteins of the discovery dataset. This list of proteins is also provided as a supplementary file in the revised version of the manuscript: [here](https://github.com/ibivu/ExtracellularVesicles/blob/master/Data/Curated/EV_proteins.txt)
 
+If you use our dataset or code, please cite the paper:
+
+Proteome encoded determinants of protein sorting into extracellular vesicles
+Katharina Waury, Dea Gogishvili, Rienk Nieuwland, Madhurima Chatterjee, Charlotte E. Teunissen, Sanne Abeln
+bioRxiv 2023.02.01.526570; doi: https://doi.org/10.1101/2023.02.01.526570
