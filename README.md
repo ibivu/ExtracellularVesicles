@@ -17,4 +17,4 @@ This GitHub repository contains all [Data](https://github.com/ibivu/Extracellula
 
 If you use our dataset or code, please cite this paper:
 
-Proteome encoded determinants of protein sorting into extracellular vesicles. Katharina Waury, Dea Gogishvili, Rienk Nieuwland, Madhurima Chatterjee, Charlotte E. Teunissen, Sanne Abeln. bioRxiv 2023.02.01.526570; doi: https://doi.org/10.1101/2023.02.01.526570
+**Proteome encoded determinants of protein sorting into extracellular vesicles.** Katharina Waury, Dea Gogishvili, Rienk Nieuwland, Madhurima Chatterjee, Charlotte E. Teunissen, Sanne Abeln. (2024) *Journal of Extracellular Biology*, 3(1), e120. [https://doi.org/10.1101/2023.02.01.526570](https://doi.org/10.1002/jex2.120)
